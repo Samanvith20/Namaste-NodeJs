@@ -1,4 +1,4 @@
-MONGODB_URI="mongodb+srv://yervala:samanvith@cluster0.glwkn.mongodb.net/" 
+MONGODB_URI="ENTER YOUR URL"
 
 
 const{MongoClient}=require("mongodb")
